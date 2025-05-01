@@ -1,0 +1,11 @@
+numpy
+pandas
+yfinance
+scikit-learn
+langchain
+openai
+sentence-transformers
+streamlit
+matplotlib
+seaborn
+python-dotenv
